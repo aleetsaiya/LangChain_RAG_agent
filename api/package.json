@@ -23,7 +23,7 @@
     "dotenv": "^16.6.1",
     "express": "^5.2.1",
     "langchain": "^1.4.0",
-    "zod": "^4.4.3"
+    "zod": "^3.25.76"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
