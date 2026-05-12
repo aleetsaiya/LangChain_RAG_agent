@@ -4,6 +4,8 @@ This project is a learning-focused full-stack RAG chatbot, it connects a React c
 
 The app is deployed on AWS EC2 with the frontend served by Nginx and the backend kept running with PM2.
 
+[Live demo](http://3.27.117.32/)
+
 Deployment note: this is a quick learning prototype, so the hosted demo uses an EC2 public IP over HTTP.
 
 ![Application preview](/public/preview.png)
