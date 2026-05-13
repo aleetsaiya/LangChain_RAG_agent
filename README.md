@@ -1,4 +1,4 @@
-# LangChain Dag Agent
+# LangChain RAG Agent
 
 This project is a learning-focused full-stack RAG chatbot, it connects a React chat interface to a LangChain-powered backend, answers questions from company context, and visualizes chartable responses when relevant. 
 
