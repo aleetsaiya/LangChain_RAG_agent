@@ -1,4 +1,4 @@
-# RAG Chatbot Demo
+# LangChain Dag Agent
 
 This project is a learning-focused full-stack RAG chatbot, it connects a React chat interface to a LangChain-powered backend, answers questions from company context, and visualizes chartable responses when relevant. 
 
@@ -6,7 +6,8 @@ The app is deployed on AWS EC2 with the frontend served by Nginx and the backend
 
 [Live demo](http://3.27.117.32/)
 
-Deployment note: this is a quick learning prototype, so the hosted demo uses an EC2 public IP over HTTP.
+> [!NOTE]
+> This is a quick learning prototype, so the hosted server uses an EC2 public IP over HTTP.
 
 ![Application preview](/public/preview.png)
 
